@@ -1,0 +1,22 @@
+E:\Visual Studio 2019\代码文件\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.deps.json
+E:\Visual Studio 2019\代码文件\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.runtimeconfig.json
+E:\Visual Studio 2019\代码文件\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.runtimeconfig.dev.json
+E:\Visual Studio 2019\代码文件\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.dll
+E:\Visual Studio 2019\代码文件\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.pdb
+E:\Visual Studio 2019\代码文件\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.csprojAssemblyReference.cache
+E:\Visual Studio 2019\代码文件\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2019\代码文件\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.AssemblyInfoInputs.cache
+E:\Visual Studio 2019\代码文件\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.AssemblyInfo.cs
+E:\Visual Studio 2019\代码文件\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.dll
+E:\Visual Studio 2019\代码文件\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.pdb
+E:\1\WordCount\201731062429\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.deps.json
+E:\1\WordCount\201731062429\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.runtimeconfig.json
+E:\1\WordCount\201731062429\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.runtimeconfig.dev.json
+E:\1\WordCount\201731062429\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.dll
+E:\1\WordCount\201731062429\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.pdb
+E:\1\WordCount\201731062429\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.csprojAssemblyReference.cache
+E:\1\WordCount\201731062429\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\1\WordCount\201731062429\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.AssemblyInfoInputs.cache
+E:\1\WordCount\201731062429\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.AssemblyInfo.cs
+E:\1\WordCount\201731062429\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.dll
+E:\1\WordCount\201731062429\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.pdb
